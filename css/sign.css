@@ -1,0 +1,96 @@
+body{
+    background-color: #525252;
+}
+#main
+{   
+	width:800px;
+	height:700px;
+	position:relative;
+    top:50px;
+    left:300px;
+    background-color:#EAB5A9 ;
+
+}
+form
+{   
+	width:500px;
+	height:300px;
+	position:relative;
+	border-radius:10%;
+    top:170px;
+    left:450px;
+
+}
+table
+{
+	width:500px;
+	height:300px;
+	position:relative;
+	border-radius:10%;
+    top:170px;
+    left:450px;
+}
+tr
+{
+width:500px;
+height:80px; 
+}
+.td1
+{
+width:225px;
+height:80px; 
+}
+.td2
+{
+width:75px;
+height:80px; 
+}
+/*for text*/
+.input
+{
+	width:225px;
+	height: 40px;
+	text-align: center;
+	border-radius:10px;
+}
+.input1
+{
+	width:500px;
+	height: 40px;
+	text-align: center;
+    position: absolute;
+    left:20px;
+    margin: -20px;
+    border-radius:10px;
+
+}
+fieldset
+{
+	width:550px;
+	height:400px;
+	position:relative;
+	border-radius:5%;
+    top:110px;
+    left:400px;
+    text-align: center;
+}
+fieldset:hover
+{
+ background-color:#F9DED9;
+}
+.input1:hover,.input:hover
+{
+  background-color:#EFE8E7;
+}
+#sig
+{
+ position:absolute;
+ bottom: 150px;
+ left: 100px;
+}
+#home
+{
+ position:absolute;
+ bottom: 150px;
+ right: 130px;
+}
